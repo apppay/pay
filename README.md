@@ -24,5 +24,4 @@
 
 <hr>
 
-下面是支付页面效果图，
 ![image](https://github.com/apppay/pay/blob/master/pay1.png)
