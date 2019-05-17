@@ -20,7 +20,7 @@
 
 9、对接方式简单易懂，聚合了支付宝，微信，操作简单，容易上手，一次配置，终身免费使用。
 
-演示demo :  http://pay.wsw520.top/pay3/index.
+演示demo :  http://pay.wsw520.top/pay3/index
 
 <hr>
 
