@@ -24,7 +24,7 @@
 
 <hr>
 
-![image](https://github.com/apppay/pay/blob/master/pay1.png)
+![image](https://github.com/apppay/pay/blob/master/pay1.jpg)
 
 
 
