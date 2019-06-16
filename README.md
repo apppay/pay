@@ -22,6 +22,8 @@
 
 测试赞助demo :  http://apppay.xyz/pay3/
 
+更多信息：http://apppay.xyz/
+
 <hr>
 
 ![image](https://github.com/apppay/pay/blob/master/pay1.jpg)
