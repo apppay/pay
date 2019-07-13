@@ -1,6 +1,6 @@
 # 助力个人创业实现个人网站接入收付款功能
 
-支付宝，微信免签支付， 
+一、支付宝，微信免签支付， 
 
 1、不需要企业资质，不需网站认证。
 
@@ -50,16 +50,6 @@
 <a href="https://github.com/apppay/h5pay">H5支付，个人支付宝使用H5拉起支付</a><br>
 <a href="https://github.com/apppay/zztoyh">支付宝扫码转账到银行卡</a><br>
 <a href="https://github.com/apppay/zhifubao">支付宝，收款二维码实时生成，生成自定义金额与不可修改金额和备注信息</a><br>
-
-
-
-
-
-
-
-
-
-
 
 
 
