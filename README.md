@@ -20,9 +20,6 @@
 
 9、对接方式简单易懂，聚合了支付宝，微信，操作简单，容易上手，一次配置，终身免费使用。
 
-测试赞助demo :  http://apppay.xyz/pay3/
-
-更多信息：http://apppay.xyz/
 
 <hr>
 
@@ -32,6 +29,10 @@
 
 
 说明-源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+<br>
+可以支付直接下载demo :  http://apppay.xyz/pay3/
+<br>
+http://apppay.xyz/
 <br>
 <br>
 <br>
