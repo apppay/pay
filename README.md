@@ -30,7 +30,9 @@
 
 说明-源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 <br>
-可以支付直接下载demo :  http://apppay.xyz/pay3/
+<br>
+支持付费直接下载demo :  http://apppay.xyz/pay3/
+<br>
 <br>
 http://apppay.xyz/
 <br>
