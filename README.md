@@ -23,11 +23,11 @@
 
 <hr>
 
-![image](https://github.com/apppay/pay/blob/master/pay1.jpg)admin.png
+![image](https://github.com/apppay/pay/blob/master/pay1.jpg)
 
 
 <hr>
-
+清晰明了的后台
 ![image](https://github.com/apppay/pay/blob/master/admin.png)
 
 
