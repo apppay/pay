@@ -23,8 +23,12 @@
 
 <hr>
 
-![image](https://github.com/apppay/pay/blob/master/pay1.jpg)
+![image](https://github.com/apppay/pay/blob/master/pay1.jpg)admin.png
 
+
+<hr>
+
+![image](https://github.com/apppay/pay/blob/master/admin.png)
 
 
 
