@@ -1,4 +1,5 @@
-# 助力个人创业实现个人网站接入收付款功能
+助力个人创业实现个人网站接入收付款功能
+-
 
 一、支付宝，微信免签支付， 
 
@@ -21,20 +22,23 @@
 9、对接方式简单易懂，聚合了支付宝，微信，操作简单，容易上手，一次配置，终身免费使用。
 
 
-<hr>
+用户支付页面
+-
 
 ![image](https://github.com/apppay/pay/blob/master/pay1.jpg)
 
 
-<hr>
 
-清晰明了的后台
+
+简洁明了的后台数据
+-
 
 ![image](https://github.com/apppay/pay/blob/master/admin.png)
 
 
-
-说明-源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+说明
+-
+源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 <br>
 <br>
 支持付费直接下载demo :  <a href="http://apppay.xyz/pay3/">http://apppay.xyz/pay3/</a>
@@ -49,7 +53,6 @@
 <br>
 <br>
 <br>
-<hr>
 <br>
 <br>
 <br>
