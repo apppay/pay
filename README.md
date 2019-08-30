@@ -14,7 +14,7 @@
 
 6、免签约,实时回调,可快速接入任何语言开发的网站、商城、APP等全行业，
 
-7、支付宝，微信扫码支付，个人免签约，方便快捷、可配置多个账户，
+7、支付宝，微信扫码支付，个人免签约，方便快捷，
 
 8、开发语言ＰＨＰ，９９％超高成功率，让资金更安全，让支付更便捷，让你收款无忧，
 
@@ -56,6 +56,7 @@
 <h2>目录列表：</h2>
 <a href="https://github.com/apppay/pc_pay">微信免签支付（PC辅助）</a><br>
 <a href="https://github.com/apppay/pay">微信，支付宝，免签支付（APP辅助）</a><br>
+<a href="https://github.com/apppay/ManyUsers">微信，支付宝，免签支付，多账户轮训收款（APP辅助）</a><br>
 <a href="https://github.com/apppay/h5pay">H5支付，个人支付宝使用H5拉起支付</a><br>
 <a href="https://github.com/apppay/zztoyh">支付宝扫码转账到银行卡</a><br>
 <a href="https://github.com/apppay/zhifubao">支付宝，收款二维码实时生成，生成自定义金额与不可修改金额和备注信息</a><br>
