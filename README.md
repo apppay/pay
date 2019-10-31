@@ -25,7 +25,7 @@
 用户支付页面
 -
 
-![image](https://github.com/apppay/pay/blob/master/pay1.jpg)
+![image](https://raw.githubusercontent.com/apppay/pay/master/pay1.jpg)
 
 
 
@@ -33,7 +33,7 @@
 简洁明了的后台数据
 -
 
-![image](https://github.com/apppay/pay/blob/master/admin.png)
+![image](https://raw.githubusercontent.com/apppay/pay/master/admin.png)
 
 
 说明
