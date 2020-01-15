@@ -70,6 +70,7 @@
 <a href="https://github.com/apppay/ManyUsers">微信，支付宝，免签支付，多账户轮训收款（APP辅助）</a><br>
 <a href="https://github.com/apppay/dfpay">H5支付，淘宝代付</a><br>
 <a href="https://github.com/apppay/payai">支付宝红包H5源码</a><br>
+<a href="https://github.com/apppay/ailpaygm">支付宝账号转账，扫码即可到转账页</a><br>
 <a href="https://github.com/apppay/h5pay">H5支付，个人支付宝使用H5拉起支付</a><br>
 <a href="https://github.com/apppay/h5toyh">H5支付，个人支付宝使用H5拉起转账到银行卡</a><br>
 <a href="https://github.com/apppay/zztopayfx">支付宝转账到个人支付宝（飞行模式）</a><br>
