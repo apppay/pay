@@ -6,7 +6,6 @@
 <br/>
 <br/>
 <br/>
-说明:DEMO目前只提供付费分享 
 <br/>
 联系方式：<a target="_blank" href="http://apppay.xyz/qq.html">点击给我发消息</a>
 <br/>
