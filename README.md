@@ -25,7 +25,7 @@
 说明:源码目前只提供付费分享
 <br/>
 <br/>
-官网：<a target="_blank" href="https://pay.apppay.shop">点击进入</a> 
+官网：<a target="_blank" href="https://pay.apppay.shop?gh">点击进入</a> 
 <br/>
 <br/>
 <br/>
